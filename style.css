@@ -1,0 +1,10 @@
+body {
+    font-family: Arial, sans-serif;
+    line-height: 1.6;
+    padding: 20px;
+}
+
+.highlight-emoji {
+    font-size: 3rem;
+    color: red;
+}
